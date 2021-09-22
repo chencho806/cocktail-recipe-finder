@@ -1,12 +1,16 @@
-# BoozeHound Cocktail Finder
-This is my first project for GA SEIR Program.
+# BoozeHound Cocktail Finder(*Currently in developdment*)
+This is my first project for GA SEIR Program. The purpose of this app, as it stands, is to conveniently find cocktail recipes. Both bartenders and patrons alike can use this app to find the recipe for your favorite cocktails! Just search by name and BoozeHound will fetch the recipe. Not sure what to sip? Sniff out your knew favorite bev by using the the random cocktail generator! Lets booze and howl at the moon! <small>*PLEASE DRINK RESPONSIBLY*</small>
 
 # Technologies Used
 
--HTML
--CSS/Skeleton
--JavaScript/jQuery
-
+    -HTML
+    -CSS
+    -JavaScript/jQuery
+    
+    Other styling tools
+    -Skeleton
+    -Neumorphism
+    -ColorSpace
 
 # Screenshots
 
@@ -14,7 +18,13 @@ This is my first project for GA SEIR Program.
 [Click here](#) to see the deployed project
 
 # Future Enhancements 
-I'd like to add a hamburger menu with options for different functions, such as cocktails by spirit, by name, by ingredients, by multiple ingredients. 
+    -Search for cocktail by name
+    -Add music
+    -Add active background
+    -Only display the required ingredients and git rid of objects with a value of 'null'
+    -Stylize font
+    -Stylize header
+    -Add default photo or icon 
 
 
 
