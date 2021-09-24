@@ -1,4 +1,4 @@
-# BoozeHound Cocktail Finder(*Currently in developdment*)
+# BoozeHound Cocktail Finder(*Currently in development*)
 This is my first project for GA SEIR Program. The purpose of this app is to conveniently find cocktail recipes. Both bartenders and patrons alike can use this app to find the recipe for your favorite cocktails! Just search by name and BoozeHound will fetch the recipe. Not sure what to sip? Sniff out your knew favorite bev by using the the random cocktail generator! Let's booze and howl at the moon! <small>*PLEASE DRINK RESPONSIBLY*</small>
 
 # Technologies Used
