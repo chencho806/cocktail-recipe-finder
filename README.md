@@ -19,11 +19,12 @@ This is my first project for GA SEIR Program. The purpose of this app is to conv
 
 
 # Getting Started
-[Click here](https://boozehound.netlify.app/) to see the deployed project
+[Click here](https://boozehound.netlify.app/) to see the deployed project. Just click the button and a random cocktail recipe will be generated. 
 
 # Future Enhancements 
     -Search for cocktail by name
-    -Add background
+    -Search for cocktail by base spirit or ingredients
+    -Add  a retro style "Tron-esque" background
     -Only display the required ingredients and git rid of objects with a value of 'null'
     -Style font
     -Style header with a neon type font 
