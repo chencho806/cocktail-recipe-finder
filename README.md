@@ -8,7 +8,6 @@ This is my first project for GA SEIR Program. The purpose of this app is to conv
     -JavaScript/jQuery
     
     Other styling tools
-    -Skeleton
     -Neumorphism
     -ColorSpace
 
