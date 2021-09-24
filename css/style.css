@@ -1,7 +1,3 @@
-/* * {
-    box box-sizing: border-box;
-    border: 1px dotted red; 
-} */
 
 
 body {
@@ -86,6 +82,7 @@ main {
 }
 
 article {
+    
     width: 75%;
     display: flex;
     justify-content: center;
@@ -98,6 +95,7 @@ article {
 
 p {
     font-size: smaller;
+    color: #7f5a7f;
 }
 
 img {
@@ -109,3 +107,14 @@ img {
 
 
 }
+
+
+h4, h5 {
+    color: #7f5a7f;
+    
+}
+
+
+
+
+    

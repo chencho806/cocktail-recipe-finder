@@ -31,8 +31,8 @@ function getData() {
 
 function render(cocktail) {
 $name.text(cocktail.strDrink)
-$ingredients.text(`${cocktail.strIngredient1}, ${cocktail.strIngredient2} , ${cocktail.strIngredient3}, ${cocktail.strIngredient4}, ${cocktail.strIngredient5}, ${cocktail.strIngredient6}, ${cocktail.strIngredient7}, ${cocktail.strIngredient8}, ${cocktail.strIngredient9}`)
-$measurements.text(`${cocktail.strMeasure1}, ${cocktail.strMeasure2}, ${cocktail.strMeasure3}, ${cocktail.strMeasure4}, ${cocktail.strMeasure5}, ${cocktail.strMeasure6}, ${cocktail.strMeasure7} ,${cocktail.strMeasure8}, ${cocktail.strMeasure9}`)
+$ingredients.text(`${cocktail.strIngredient1}, ${cocktail.strIngredient2} , ${cocktail.strIngredient3}, ${cocktail.strIngredient4}`)
+$measurements.text(`${cocktail.strMeasure1}, ${cocktail.strMeasure2}, ${cocktail.strMeasure3}, ${cocktail.strMeasure4}`)
 $instructions.text(cocktail.strInstructions)
                 
    $('img').attr('src', cocktail.strDrinkThumb)
